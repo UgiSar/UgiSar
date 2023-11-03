@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UgiSar
 - 👀 I’m interested in software developing, programming
 - 🌱 I’m currently learning CS50 Introduction to Computer Science
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on junior projecs in C/C++
 - 📫 How to reach me: ugi.saranchimeg@gmail.com
 
 <!---
