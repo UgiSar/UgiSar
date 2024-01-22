@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @UgiSar
-- 👀 I’m interested in software developing, programming
-- 🌱 I’m currently learning CS50 Introduction to Computer Science
+- 👋 Hi, I’m Ugi Saranchimeg
+- 👀 I’m interested in software developing, programming, software testing
+- 🌱 I’m currently studying at 42 Prague - programming
 - 💞️ I’m looking to collaborate on junior projecs in C/C++
 - 📫 How to reach me: ugi.saranchimeg@gmail.com
 
